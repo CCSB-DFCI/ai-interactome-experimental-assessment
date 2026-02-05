@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1125385386.svg)](https://doi.org/10.5281/zenodo.18499797)
+
 # Experimental assessment of AI-based interactome mapping
 
 Figures for the paper Lambourne et al. Experimental assessment of AI-based interactome mapping, Nature Communications, 2026. This includes the Yeast Reference Interactome (YeRI).
