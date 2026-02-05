@@ -1,0 +1,164 @@
+GO_ID	orf_name	n_proteins_with_GO_term_in_network	n_interactors_with_GO_term	mean_in_random_networks	std_in_random_networks	p-value	z-score	effect_size	dataset	GO_term_name
+GO:0000082	YJR128W	11	2	0.105	0.316188	0.0015	5.99327	1.26262	YeRI	G1/S transition of mitotic cell cycle
+GO:0000149	YPL077C	7	2	0.109	0.333345	0.0035	5.6728	1.22431	YeRI	SNARE binding
+GO:0000159	YGR161C	5	2	0.005	0.0705337	0.0	28.2844	1.85393	YeRI	protein phosphatase type 2A complex
+GO:0000350	YJR003C	4	2	0.075	0.274545	0.0015	7.0116	1.37591	YeRI	generation of catalytic spliceosome for second transesterification step
+GO:0000398	YJR003C	21	3	0.188	0.432037	0.0005	6.5087	1.94793	YeRI	mRNA splicing, via spliceosome
+GO:0000725	YIL152W	5	2	0.039	0.198693	0.0005	9.86949	1.56361	YeRI	recombinational repair
+GO:0000727	YJR003C	11	2	0.074	0.283768	0.0025	6.78725	1.35846	YeRI	double-strand break repair via break-induced replication
+GO:0000730	YIL152W	6	2	0.049	0.229345	0.0015	8.50685	1.49231	YeRI	DNA recombinase assembly
+GO:0000972	YGR161WC	2	2	0.004	0.0631189	0.0	31.6228	1.86976	YeRI	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0000973	YGR161WC	6	2	0.009	0.0944405	0.0	21.0821	1.80212	YeRI	post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0000974	YJR003C	8	4	0.128	0.348735	0.0	11.103	3.17453	YeRI	Prp19 complex
+GO:0002098	YJR011C	14	2	0.131	0.354738	0.003	5.26868	1.15952	YeRI	tRNA wobble uridine modification
+GO:0003688	YJR003C	11	2	0.11	0.334515	0.0035	5.64998	1.22097	YeRI	DNA replication origin binding
+GO:0004354	YLR267W	2	2	0.001	0.031607	0.0	63.2456	1.93579	YeRI	glutamate dehydrogenase (NADP+) activity
+GO:0004722	YGR161C	10	2	0.011	0.104302	0.0	19.0695	1.7804	YeRI	protein serine/threonine phosphatase activity
+GO:0004722	YJR128W	10	2	0.072	0.266113	0.001	7.24505	1.39577	YeRI	protein serine/threonine phosphatase activity
+GO:0005085	YDR067C	6	2	0.116	0.32946	0.0015	5.71845	1.22508	YeRI	guanyl-nucleotide exchange factor activity
+GO:0005085	YGR146C	6	2	0.115	0.331323	0.0015	5.68931	1.22235	YeRI	guanyl-nucleotide exchange factor activity
+GO:0005759	YKL075C	23	2	0.125	0.365205	0.006	5.1341	1.14459	YeRI	mitochondrial matrix
+GO:0005778	YGR168C	8	3	0.152	0.375361	0.0	7.58736	2.09728	YeRI	peroxisomal membrane
+GO:0005787	YJR015W	4	2	0.076	0.272441	0.001	7.06208	1.37912	YeRI	signal peptidase complex
+GO:0006325	YPL077C	7	2	0.065	0.254509	0.001	7.60286	1.42598	YeRI	chromatin organization
+GO:0006417	YGR161C	4	2	0.005	0.0705337	0.0	28.2844	1.85393	YeRI	regulation of translation
+GO:0006417	YJR128W	4	2	0.041	0.19829	0.0	9.87946	1.56242	YeRI	regulation of translation
+GO:0006465	YJR015W	4	2	0.076	0.272441	0.001	7.06208	1.37912	YeRI	signal peptide processing
+GO:0006537	YLR267W	2	2	0.001	0.031607	0.0	63.2456	1.93579	YeRI	glutamate biosynthetic process
+GO:0006607	YGR161WC	6	2	0.039	0.193595	0.0	10.1294	1.57381	YeRI	NLS-bearing protein import into nucleus
+GO:0007031	YGR168C	8	3	0.257	0.494925	0.0	5.54225	1.75315	YeRI	peroxisome organization
+GO:0016558	YGR168C	6	2	0.117	0.345414	0.004	5.45143	1.19217	YeRI	protein import into peroxisome matrix
+GO:0016559	YGR168C	5	2	0.099	0.314959	0.0025	6.03571	1.27108	YeRI	peroxisome fission
+GO:0016925	YOR285W	4	2	0.01	0.0994987	0.0	20.0003	1.791	YeRI	protein sumoylation
+GO:0016973	YGR161WC	7	2	0.008	0.0890842	0.0	22.3609	1.81383	YeRI	poly(A)+ mRNA export from nucleus
+GO:0017056	YGR161WC	10	2	0.024	0.153049	0.0	12.9109	1.6699	YeRI	structural constituent of nuclear pore
+GO:0031990	YGR161WC	7	2	0.016	0.125475	0.0	15.8119	1.73305	YeRI	mRNA export from nucleus in response to heat stress
+GO:0032183	YOR285W	2	2	0.005	0.0705337	0.0	28.2844	1.85393	YeRI	SUMO binding
+GO:0034497	YPL077C	6	2	0.058	0.246244	0.0015	7.88649	1.44951	YeRI	protein localization to phagophore assembly site
+GO:0034553	YKL075C	2	2	0.005	0.0705337	0.0	28.2844	1.85393	YeRI	mitochondrial respiratory chain complex II assembly
+GO:0044614	YGR161WC	3	2	0.004	0.0631189	0.0	31.6228	1.86976	YeRI	nuclear pore cytoplasmic filaments
+GO:0044805	YPL077C	10	2	0.082	0.288576	0.002	6.64643	1.34085	YeRI	late nucleophagy
+GO:0045047	YJR015W	6	2	0.082	0.28156	0.001	6.81205	1.35488	YeRI	protein targeting to ER
+GO:0060090	YPL077C	4	2	0.044	0.209914	0.0005	9.31809	1.53617	YeRI	molecular adaptor activity
+GO:0070262	YJR128W	4	2	0.038	0.191196	0.0	10.2617	1.57961	YeRI	peptidyl-serine dephosphorylation
+GO:0071006	YJR003C	8	3	0.12	0.34	0.0	8.47059	2.2	YeRI	U2-type catalytic step 1 spliceosome
+GO:0071007	YJR003C	4	2	0.065	0.254509	0.001	7.60286	1.42598	YeRI	U2-type catalytic step 2 spliceosome
+GO:0097196	YIL152W	4	2	0.039	0.198693	0.0005	9.86949	1.56361	YeRI	Shu complex
+GO:1904669	YGR268C	8	2	0.066	0.256211	0.001	7.54847	1.42158	YeRI	ATP export
+GO:1990316	YPL077C	3	2	0.048	0.222926	0.001	8.75627	1.50615	YeRI	Atg1/ULK1 kinase complex
+GO:1990429	YGR168C	6	2	0.099	0.308543	0.0015	6.16121	1.28391	YeRI	peroxisomal importomer complex
+GO:2000786	YJR128W	5	2	0.049	0.215868	0.0	9.03793	1.51926	YeRI	positive regulation of autophagosome assembly
+GO:0000030	YAR027W	4	2	0.027	0.16814	0.0005	11.7343	1.63672	Y2H-union-25	mannosyltransferase activity
+GO:0000077	YLR177W	11	2	0.028	0.164973	0.0	11.9535	1.64205	Y2H-union-25	DNA damage checkpoint signaling
+GO:0000082	YJR128W	14	2	0.105	0.325538	0.003	5.82113	1.24392	Y2H-union-25	G1/S transition of mitotic cell cycle
+GO:0000082	YLR267W	14	2	0.054	0.2347	0.001	8.29144	1.4766	Y2H-union-25	G1/S transition of mitotic cell cycle
+GO:0000086	YLR267W	15	2	0.04	0.195959	0.0	10.0021	1.56808	Y2H-union-25	G2/M transition of mitotic cell cycle
+GO:0000124	YPL077C	13	2	0.101	0.317489	0.0025	5.98132	1.26402	Y2H-union-25	SAGA complex
+GO:0000159	YGR161C	5	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	protein phosphatase type 2A complex
+GO:0000350	YJR003C	5	2	0.079	0.273421	0.0005	7.0258	1.37416	Y2H-union-25	generation of catalytic spliceosome for second transesterification step
+GO:0000398	YJR003C	33	3	0.219	0.455015	0.0005	6.11188	1.87097	Y2H-union-25	mRNA splicing, via spliceosome
+GO:0000447	YKL075C	19	2	0.065	0.254509	0.001	7.60286	1.42598	Y2H-union-25	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000461	YGR168C	4	2	0.076	0.283238	0.0025	6.79286	1.35752	Y2H-union-25	endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000480	YKL075C	12	2	0.031	0.173318	0.0	11.3606	1.62236	Y2H-union-25	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000492	YCL028W	8	2	0.028	0.164973	0.0	11.9535	1.64205	Y2H-union-25	box C/D snoRNP assembly
+GO:0000725	YIL152W	8	3	0.059	0.235625	0.0	12.4817	2.46975	Y2H-union-25	recombinational repair
+GO:0000730	YIL152W	6	3	0.04	0.195959	0.0	15.1052	2.56808	Y2H-union-25	DNA recombinase assembly
+GO:0000920	YIR016W	8	2	0.02	0.14	0.0	14.1429	1.7	Y2H-union-25	septum digestion after cytokinesis
+GO:0000972	YGR161WC	5	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0000973	YGR161WC	11	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GO:0000974	YJR003C	10	4	0.134	0.368841	0.0	10.4815	3.12832	Y2H-union-25	Prp19 complex
+GO:0001402	YLR177W	9	2	0.015	0.129518	0.0005	15.326	1.72596	Y2H-union-25	signal transduction involved in filamentous growth
+GO:0002098	YJR011C	15	2	0.123	0.346224	0.003	5.42135	1.18455	Y2H-union-25	tRNA wobble uridine modification
+GO:0002188	YPL105C	2	2	0.001	0.031607	0.0	63.2456	1.93579	Y2H-union-25	translation reinitiation
+GO:0003688	YLR177W	17	2	0.03	0.176352	0.0005	11.1708	1.6173	Y2H-union-25	DNA replication origin binding
+GO:0003688	YLR267W	17	2	0.055	0.232325	0.0005	8.37189	1.48035	Y2H-union-25	DNA replication origin binding
+GO:0003689	YDR229W	6	2	0.008	0.0890842	0.0	22.3609	1.81383	Y2H-union-25	DNA clamp loader activity
+GO:0003713	YPL077C	13	2	0.098	0.310477	0.002	6.12606	1.28105	Y2H-union-25	transcription coactivator activity
+GO:0003724	YKL075C	7	2	0.035	0.189143	0.0005	10.389	1.58671	Y2H-union-25	RNA helicase activity
+GO:0003743	YPL105C	13	2	0.048	0.218394	0.0005	8.93797	1.51521	Y2H-union-25	translation initiation factor activity
+GO:0004354	YLR267W	2	2	0.001	0.031607	0.0	63.2456	1.93579	Y2H-union-25	glutamate dehydrogenase (NADP+) activity
+GO:0004722	YGR161C	14	2	0.004	0.0631189	0.0	31.6228	1.86976	Y2H-union-25	protein serine/threonine phosphatase activity
+GO:0004722	YJR128W	14	2	0.058	0.233743	0.0	8.30825	1.47451	Y2H-union-25	protein serine/threonine phosphatase activity
+GO:0004842	YLR267W	41	2	0.107	0.324886	0.0025	5.82666	1.24323	Y2H-union-25	ubiquitin-protein transferase activity
+GO:0004842	YOR385W	41	2	0.054	0.2304	0.0005	8.44619	1.4852	Y2H-union-25	ubiquitin-protein transferase activity
+GO:0005663	YDR229W	5	2	0.006	0.0772269	0.0	25.82	1.83955	Y2H-union-25	DNA replication factor C complex
+GO:0005759	YKL075C	31	2	0.103	0.313673	0.0015	6.04769	1.26965	Y2H-union-25	mitochondrial matrix
+GO:0005770	YGR168C	13	2	0.112	0.327805	0.002	5.75952	1.23239	Y2H-union-25	late endosome
+GO:0005778	YGR168C	13	3	0.199	0.459781	0.001	6.09202	1.88144	Y2H-union-25	peroxisomal membrane
+GO:0005779	YGR168C	9	2	0.086	0.287409	0.001	6.6595	1.33918	Y2H-union-25	integral component of peroxisomal membrane
+GO:0005787	YJR015W	4	2	0.046	0.209485	0.0	9.32763	1.53503	Y2H-union-25	signal peptidase complex
+GO:0005852	YPL105C	5	2	0.001	0.031607	0.0	63.2456	1.93579	Y2H-union-25	eukaryotic translation initiation factor 3 complex
+GO:0005977	YLR177W	6	2	0.009	0.0944405	0.0	21.0821	1.80212	Y2H-union-25	glycogen metabolic process
+GO:0006272	YDR229W	8	2	0.008	0.0890842	0.0	22.3609	1.81383	Y2H-union-25	leading strand elongation
+GO:0006325	YPL077C	17	3	0.132	0.369562	0.0	7.76054	2.12888	Y2H-union-25	chromatin organization
+GO:0006367	YHR113W	9	2	0.032	0.176	0.0	11.1818	1.616	Y2H-union-25	transcription initiation at RNA polymerase II promoter
+GO:0006413	YPL105C	9	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	translational initiation
+GO:0006417	YGR161C	5	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	regulation of translation
+GO:0006417	YJR128W	5	2	0.038	0.196357	0.0005	9.99201	1.56929	Y2H-union-25	regulation of translation
+GO:0006465	YJR015W	6	2	0.046	0.209485	0.0	9.32763	1.53503	Y2H-union-25	signal peptide processing
+GO:0006469	YKL142W	3	2	0.029	0.167806	0.0	11.7457	1.63539	Y2H-union-25	negative regulation of protein kinase activity
+GO:0006486	YAR027W	8	2	0.067	0.261746	0.0015	7.38502	1.40951	Y2H-union-25	protein glycosylation
+GO:0006511	YLR267W	40	2	0.116	0.335476	0.0025	5.6159	1.21305	Y2H-union-25	ubiquitin-dependent protein catabolic process
+GO:0006511	YOR385W	40	2	0.064	0.248805	0.0005	7.78119	1.43839	Y2H-union-25	ubiquitin-dependent protein catabolic process
+GO:0006537	YLR267W	4	2	0.004	0.0631189	0.0	31.6228	1.86976	Y2H-union-25	glutamate biosynthetic process
+GO:0006606	YPL088W	32	3	0.148	0.360688	0.0	7.90711	2.13062	Y2H-union-25	protein import into nucleus
+GO:0006607	YGR161WC	9	2	0.054	0.226018	0.0	8.60995	1.49396	Y2H-union-25	NLS-bearing protein import into nucleus
+GO:0006620	YCL028W	8	2	0.089	0.295092	0.0015	6.47596	1.32082	Y2H-union-25	post-translational protein targeting to endoplasmic reticulum membrane
+GO:0007031	YGR168C	13	3	0.262	0.487192	0.0005	5.61996	1.76362	Y2H-union-25	peroxisome organization
+GO:0007062	YDR229W	3	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	sister chromatid cohesion
+GO:0007118	YIR016W	10	2	0.02	0.14	0.0	14.1429	1.7	Y2H-union-25	budding cell apical bud growth
+GO:0007163	YIR016W	2	2	0.003	0.05469	0.0	36.5149	1.88762	Y2H-union-25	establishment or maintenance of cell polarity
+GO:0007265	YLR177W	8	2	0.006	0.0772269	0.0	25.82	1.83955	Y2H-union-25	Ras protein signal transduction
+GO:0008134	YHR121W	8	2	0.022	0.146683	0.0	13.4848	1.68463	Y2H-union-25	transcription factor binding
+GO:0008134	YJR003C	8	2	0.12	0.331059	0.001	5.67875	1.21788	Y2H-union-25	transcription factor binding
+GO:0008289	YKL142W	7	2	0.052	0.222027	0.0	8.77371	1.50395	Y2H-union-25	lipid binding
+GO:0009408	YKL142W	8	2	0.08	0.271293	0.0	7.07721	1.37741	Y2H-union-25	response to heat
+GO:0016021	YPR174C	19	3	0.229	0.454488	0.0	6.09698	1.86202	Y2H-union-25	membrane
+GO:0016558	YGR168C	10	2	0.077	0.277617	0.0015	6.92682	1.36777	Y2H-union-25	protein import into peroxisome matrix
+GO:0016559	YGR168C	6	2	0.103	0.307231	0.0005	6.1745	1.28254	Y2H-union-25	peroxisome fission
+GO:0016579	YGR268C	6	2	0.027	0.16814	0.0005	11.7343	1.63672	Y2H-union-25	protein deubiquitination
+GO:0016925	YOR285W	6	2	0.051	0.219998	0.0	8.85918	1.509	Y2H-union-25	protein sumoylation
+GO:0016973	YGR161WC	21	2	0.015	0.121552	0.0	16.3304	1.7419	Y2H-union-25	poly(A)+ mRNA export from nucleus
+GO:0017056	YGR161WC	18	2	0.03	0.170587	0.0	11.5483	1.62883	Y2H-union-25	structural constituent of nuclear pore
+GO:0030015	YJR011C	9	2	0.073	0.260137	0.0	7.40765	1.40673	Y2H-union-25	CCR4-NOT core complex
+GO:0030134	YAR027W	11	2	0.134	0.360616	0.0035	5.17448	1.14477	Y2H-union-25	COPII-coated ER to Golgi transport vesicle
+GO:0030276	YOR111W	5	2	0.012	0.108885	0.0	18.2578	1.77023	Y2H-union-25	clathrin binding
+GO:0030479	YNL092W	30	2	0.097	0.305926	0.0015	6.22045	1.29115	Y2H-union-25	actin cortical patch
+GO:0031146	YLR267W	11	2	0.065	0.258409	0.0015	7.48814	1.41818	Y2H-union-25	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+GO:0031389	YDR229W	5	2	0.008	0.0890842	0.0	22.3609	1.81383	Y2H-union-25	Rad17 RFC-like complex
+GO:0031390	YDR229W	4	2	0.006	0.0772269	0.0	25.82	1.83955	Y2H-union-25	Ctf18 RFC-like complex
+GO:0031391	YDR229W	5	2	0.006	0.0772269	0.0	25.82	1.83955	Y2H-union-25	Elg1 RFC-like complex
+GO:0031990	YGR161WC	8	2	0.004	0.0631189	0.0	31.6228	1.86976	Y2H-union-25	mRNA export from nucleus in response to heat stress
+GO:0032183	YOR285W	2	2	0.007	0.0833727	0.0	23.9047	1.82625	Y2H-union-25	SUMO binding
+GO:0034270	YHR113W	4	2	0.089	0.298461	0.002	6.40285	1.31408	Y2H-union-25	Cvt complex
+GO:0034553	YKL075C	2	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	mitochondrial respiratory chain complex II assembly
+GO:0043007	YIL152W	7	2	0.056	0.238462	0.001	8.15225	1.46708	Y2H-union-25	maintenance of rDNA
+GO:0043066	YLR177W	5	2	0.005	0.0705337	0.0	28.2844	1.85393	Y2H-union-25	negative regulation of apoptotic process
+GO:0043162	YGR268C	3	2	0.034	0.181229	0.0	10.8481	1.60354	Y2H-union-25	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+GO:0043614	YPL105C	7	2	0.002	0.0446766	0.0	44.7214	1.90865	Y2H-union-25	multi-eIF complex
+GO:0044614	YGR161WC	6	2	0.007	0.0833727	0.0	23.9047	1.82625	Y2H-union-25	nuclear pore cytoplasmic filaments
+GO:0045047	YJR015W	7	2	0.055	0.22798	0.0	8.53144	1.48904	Y2H-union-25	protein targeting to ER
+GO:0046020	YHR121W	4	2	0.015	0.121552	0.0	16.3304	1.7419	Y2H-union-25	negative regulation of transcription from RNA polymerase II promoter by pheromones
+GO:0046020	YJR003C	4	2	0.078	0.271875	0.0005	7.06943	1.37825	Y2H-union-25	negative regulation of transcription from RNA polymerase II promoter by pheromones
+GO:0046695	YPL077C	11	2	0.096	0.311101	0.0025	6.12019	1.2818	Y2H-union-25	SLIK (SAGA-like) complex
+GO:0050815	YLR177W	3	2	0.006	0.0772269	0.0	25.82	1.83955	Y2H-union-25	phosphoserine residue binding
+GO:0051087	YCL028W	8	2	0.065	0.254509	0.001	7.60286	1.42598	Y2H-union-25	protein-folding chaperone binding
+GO:0051666	YGR268C	11	2	0.056	0.234231	0.0005	8.29951	1.47554	Y2H-union-25	actin cortical patch localization
+GO:0061608	YPL088W	7	3	0.17	0.388716	0.0	7.28038	2.05257	Y2H-union-25	nuclear import signal receptor activity
+GO:0061630	YLR267W	9	2	0.023	0.149903	0.0	13.1885	1.67719	Y2H-union-25	ubiquitin protein ligase activity
+GO:0070262	YJR128W	4	2	0.035	0.189143	0.0005	10.389	1.58671	Y2H-union-25	peptidyl-serine dephosphorylation
+GO:0071006	YJR003C	12	3	0.141	0.378311	0.0	7.55728	2.10238	Y2H-union-25	U2-type catalytic step 1 spliceosome
+GO:0071007	YJR003C	6	2	0.078	0.28621	0.0025	6.71536	1.34958	Y2H-union-25	U2-type catalytic step 2 spliceosome
+GO:0071629	YHR113W	8	2	0.138	0.364631	0.0035	5.10653	1.13274	Y2H-union-25	cytoplasm protein quality control by the ubiquitin-proteasome system
+GO:0072380	YCL028W	4	2	0.029	0.167806	0.0	11.7457	1.63539	Y2H-union-25	TRC complex
+GO:0097196	YIL152W	4	3	0.033	0.178637	0.0	16.6091	2.60973	Y2H-union-25	Shu complex
+GO:0097255	YCL028W	4	2	0.015	0.121552	0.0	16.3304	1.7419	Y2H-union-25	R2TP complex
+GO:1904667	YLR177W	4	2	0.007	0.0833727	0.0	23.9047	1.82625	Y2H-union-25	negative regulation of ubiquitin protein ligase activity
+GO:1990429	YGR168C	8	2	0.097	0.321856	0.004	5.91259	1.25929	Y2H-union-25	peroxisomal importomer complex
+GO:1990526	YHR121W	3	2	0.014	0.11749	0.0	16.9035	1.75102	Y2H-union-25	Ste12p-Dig1p-Dig2p complex
+GO:1990526	YJR003C	3	2	0.075	0.267161	0.0005	7.20539	1.39068	Y2H-union-25	Ste12p-Dig1p-Dig2p complex
+GO:2000218	YHR121W	2	2	0.012	0.108885	0.0	18.2578	1.77023	Y2H-union-25	negative regulation of invasive growth in response to glucose limitation
+GO:2000218	YJR003C	2	2	0.071	0.260689	0.0005	7.39961	1.40762	Y2H-union-25	negative regulation of invasive growth in response to glucose limitation
+GO:2000221	YHR121W	5	2	0.016	0.125475	0.0	15.8119	1.73305	Y2H-union-25	negative regulation of pseudohyphal growth
+GO:2000221	YJR003C	5	2	0.084	0.284507	0.001	6.73447	1.34699	Y2H-union-25	negative regulation of pseudohyphal growth
+GO:2000786	YJR128W	7	2	0.141	0.367585	0.0035	5.05733	1.12383	Y2H-union-25	positive regulation of autophagosome assembly
